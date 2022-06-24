@@ -83,4 +83,3 @@ while True:
         ball.dy *= -1
         
     if ball.xcor() 
-        
